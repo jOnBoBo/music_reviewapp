@@ -1,16 +1,8 @@
 # music_junkie
 
-A new Flutter project.
+**Firebase Authentication:** Implemented secure user authentication using Firebase for the music application.
+**Spotify API Integration:** Enabled song search functionality by integrating the Spotify API, allowing users to search for songs within the app.
+**PostgreSQL Database:** Utilized PostgreSQL to store and manage user reviews efficiently.
+**Feature Implementation:** Developed functionality for users to delete all their reviews, enhancing user control over their data.
+https://www.figma.com/design/wdZFfYyoNOzBkMVatNvKQt/Music-Junkie-MockUp?node-id=0-1
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
