@@ -1,4 +1,4 @@
-# Music Junkie
+# Music Junkie - android app
 
 ## Features
 
